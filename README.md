@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=youzouzou)
 
+[博客](https://hammerhead-wing-02a.notion.site/66d96f9ae4c540e58253bdaa69bdd0b6)
